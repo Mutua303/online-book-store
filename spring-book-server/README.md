@@ -1,5 +1,7 @@
 # Mutua Books API Documentation
 
+The Swagger Springfox documentation for this project can be accessed via url [https://online-book-store-42xj.onrender.com/swagger-ui/index.html](https://online-book-store-42xj.onrender.com/swagger-ui/index.html).
+
 ## Authentication Endpoints
 
 ### Sign Up
