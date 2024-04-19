@@ -1,4 +1,4 @@
-# API Documentation For BooksApp Endpoints
+# Mutua Books API Documentation
 
 ## Authentication Endpoints
 
